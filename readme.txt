@@ -3,4 +3,10 @@ Git is free software distributed under the GPL
 test1
 test2
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+hejiezijichangdedongxi
+Creating a new branch is quick and simple
+>>>>>>> feature1
+
