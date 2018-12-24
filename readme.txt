@@ -4,3 +4,4 @@ test1
 test2
 Creating a new branch is quick.
 hejiezijichangdedongxi
+Creating a new branch is quick AND simple
