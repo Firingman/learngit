@@ -9,4 +9,4 @@ Creating a new branch is quick and simple.
 hejiezijichangdedongxi
 Creating a new branch is quick and simple
 >>>>>>> feature1
-
+Git is very good 	
